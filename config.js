@@ -76,7 +76,7 @@ const CONFIG = {
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
     music: {
-        enabled: false,                     // Music feature is enabled
+        enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dgfc357ve/video/upload/v1770992368/Bruno_Major_-_Nothing_Lyrics_tkxoiy.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
